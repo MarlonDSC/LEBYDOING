@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: f771b19c348bb3843b6f917391d79d62
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -2576828011555564869
+    second: PanInferior|CarneAction
+  - first:
+      74: -1561583292918256554
+    second: PanInferior|EnsaladaAction
+  - first:
+      74: -7293318257255016090
+    second: PanInferior|HamburguesaAction
+  - first:
+      74: -3956793688862240228
+    second: PanInferior|PanInferiorAction
+  - first:
+      74: 5589257369276060192
+    second: PanInferior|PanSuperiorAction
+  - first:
+      74: 5236810652602726330
+    second: PanInferior|QuesoAction
+  - first:
+      74: 8153096094919510582
+    second: PanInferior|Sign_Door|CoffeeShopSignIdle|Animation Base Layer
+  - first:
+      74: -907071072973461127
+    second: PanInferior|TomateAction
+  - first:
+      74: 6565292614243986825
+    second: Hamburguesa|CarneAction
+  - first:
+      74: -710116570163617120
+    second: Hamburguesa|EnsaladaAction
+  - first:
+      74: -8662743441697681253
+    second: Hamburguesa|HamburguesaAction
+  - first:
+      74: 7400475026060550445
+    second: Hamburguesa|PanInferiorAction
+  - first:
+      74: 4922518778703077275
+    second: Hamburguesa|PanSuperiorAction
+  - first:
+      74: 5166706526625329079
+    second: Hamburguesa|QuesoAction
+  - first:
+      74: -6272991856485153237
+    second: Hamburguesa|Sign_Door|CoffeeShopSignIdle|Animation Base Layer
+  - first:
+      74: 503413096706178106
+    second: Hamburguesa|TomateAction
+  - first:
+      74: 2311590299535823364
+    second: Ensalada|CarneAction
+  - first:
+      74: -286947406394800419
+    second: Ensalada|EnsaladaAction
+  - first:
+      74: 8405718302340964836
+    second: Ensalada|HamburguesaAction
+  - first:
+      74: 6638722650892847158
+    second: Ensalada|PanInferiorAction
+  - first:
+      74: 4038159054525248025
+    second: Ensalada|PanSuperiorAction
+  - first:
+      74: 5332801309194892223
+    second: Ensalada|QuesoAction
+  - first:
+      74: 6091927122565275742
+    second: Ensalada|Sign_Door|CoffeeShopSignIdle|Animation Base Layer
+  - first:
+      74: -3785705650299234450
+    second: Ensalada|TomateAction
+  - first:
+      74: -4418456630689115665
+    second: Tomate|CarneAction
+  - first:
+      74: 7171193737294863680
+    second: Tomate|EnsaladaAction
+  - first:
+      74: -2841746621435554073
+    second: Tomate|HamburguesaAction
+  - first:
+      74: -3151585146421277394
+    second: Tomate|PanInferiorAction
+  - first:
+      74: 6593149534562946368
+    second: Tomate|PanSuperiorAction
+  - first:
+      74: -7978919452100545756
+    second: Tomate|QuesoAction
+  - first:
+      74: -3752207226169378152
+    second: Tomate|Sign_Door|CoffeeShopSignIdle|Animation Base Layer
+  - first:
+      74: -7075494743718018548
+    second: Tomate|TomateAction
+  - first:
+      74: 6092167151356268765
+    second: Queso|CarneAction
+  - first:
+      74: 8749649582922997861
+    second: Queso|EnsaladaAction
+  - first:
+      74: -7704508531559959497
+    second: Queso|HamburguesaAction
+  - first:
+      74: -1668166419420389669
+    second: Queso|PanInferiorAction
+  - first:
+      74: 2827637207696093769
+    second: Queso|PanSuperiorAction
+  - first:
+      74: -454756651845598883
+    second: Queso|QuesoAction
+  - first:
+      74: 2898641841717660082
+    second: Queso|Sign_Door|CoffeeShopSignIdle|Animation Base Layer
+  - first:
+      74: -8103849538908320023
+    second: Queso|TomateAction
+  - first:
+      74: 828193033252860165
+    second: Carne|CarneAction
+  - first:
+      74: -5378410015279123760
+    second: Carne|EnsaladaAction
+  - first:
+      74: -4079049764147211164
+    second: Carne|HamburguesaAction
+  - first:
+      74: 6923228792770658431
+    second: Carne|PanInferiorAction
+  - first:
+      74: -3861638135889542244
+    second: Carne|PanSuperiorAction
+  - first:
+      74: -7737601062013094657
+    second: Carne|QuesoAction
+  - first:
+      74: -4752404247772849124
+    second: Carne|Sign_Door|CoffeeShopSignIdle|Animation Base Layer
+  - first:
+      74: -4964305425599619937
+    second: Carne|TomateAction
+  - first:
+      74: -3954389060949674531
+    second: PanSuperior|CarneAction
+  - first:
+      74: -8554092909912395651
+    second: PanSuperior|EnsaladaAction
+  - first:
+      74: 6888892598900833016
+    second: PanSuperior|HamburguesaAction
+  - first:
+      74: -3567345034861644475
+    second: PanSuperior|PanInferiorAction
+  - first:
+      74: -7690880715965094935
+    second: PanSuperior|PanSuperiorAction
+  - first:
+      74: -5739739794397962925
+    second: PanSuperior|QuesoAction
+  - first:
+      74: 1730782078004671081
+    second: PanSuperior|Sign_Door|CoffeeShopSignIdle|Animation Base Layer
+  - first:
+      74: 810275003918904519
+    second: PanSuperior|TomateAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
